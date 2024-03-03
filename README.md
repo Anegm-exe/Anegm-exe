@@ -13,6 +13,7 @@
   <tr>
     <td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
     <td align="center">Unity<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">Unity<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
   </tr>
 </table>
 
