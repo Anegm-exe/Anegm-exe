@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+# Skill-Set:
 <table>
   <tr>
     <td align="center">HTML<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" style="height: 100px; width: auto;" /></td>
@@ -14,6 +15,9 @@
     <td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
     <td align="center">Unity<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="height: 100px; width: auto;" /></td>
     <td align="center">VisualStudio<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">SQL<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">Get-Hub<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">Git-Bash<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
   </tr>
 </table>
 
@@ -21,9 +25,6 @@
 
 
 <!--
-open cv
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
