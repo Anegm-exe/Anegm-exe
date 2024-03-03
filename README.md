@@ -7,11 +7,11 @@
     <td align="center">JavaScript<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" style="height: 100px; width: auto;" /></td>
     <td align="center">C#<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" style="height: 100px; width: auto;" /></td>
     <td align="center">C++<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" style="height: 100px; width: auto;" /></td>
-  </tr>
-  <tr>
     <td align="center">Java<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" style="height: 100px; width: auto;" /></td>
     <td align="center">Python<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">Open-CV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Open-CV.png" style="height: 100px; width: auto;" /></td>
+  </tr>
+  <tr>
+    <td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
     <td align="center">Unity<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="height: 100px; width: auto;" /></td>
   </tr>
 </table>
