@@ -1,15 +1,50 @@
 ## Hi there 👋
 
-# Skill-Set:
+## Skill-Set:
 <table>
   <tr>
-    <td align="center">HTML<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">CSS<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">JavaScript<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">C#<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">C++<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">Java<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">Python<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" style="width: 100px; height: auto; pointer-events: none;" />
+      </div>
+      HTML
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" style="width: 75px; height: auto; pointer-events: none;" />
+      </div>
+      CSS
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" style="width: 110px; height: auto; pointer-events: none;" />
+      </div>
+      JavaScript
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" style="width: 110px; height: auto; pointer-events: none;" />
+      </div>
+      C#
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" style="width: 110px; height: auto; pointer-events: none;" />
+      </div>
+      C++
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" style="width: 110px; height: auto; pointer-events: none;" />
+      </div>
+      JAVA
+    </td>
+    <td align="center">
+      <div style="width: 100px; height: 100px; overflow: hidden;">
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" style="width: 110px; height: auto; pointer-events: none;" />
+      </div>
+      Python
+    </td>
   </tr>
   <tr>
     <td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
