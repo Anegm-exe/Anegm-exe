@@ -15,9 +15,9 @@
     <td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
     <td align="center">Unity<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="height: 100px; width: auto;" /></td>
     <td align="center">VisualStudio<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">SQL<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">Get-Hub<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
-    <td align="center">Git-Bash<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">SQL<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">GetHub<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GetHub.png" style="height: 100px; width: auto;" /></td>
+    <td align="center">GitBash<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" style="height: 100px; width: auto;" /></td>
   </tr>
 </table>
 
