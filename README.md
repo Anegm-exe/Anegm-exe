@@ -5,43 +5,43 @@
   <tr>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" style="width: 100px; height: 100px;" />
       </div>
       HTML
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" style="width: 100px; height: 100px;" />
       </div>
       CSS
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" style="width: 100px; height: 100px;" />
       </div>
       JavaScript
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" style="width: 100px; height: 100px;" />
       </div>
       C#
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" style="width: 100px; height: 100px;" />
       </div>
       C++
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" style="width: 100px; height: 100px;" />
       </div>
       JAVA
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" style="width: 100px; height: 100px;" />
       </div>
       Python
     </td>
@@ -49,37 +49,37 @@
   <tr>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="width: 100px; height: 100px;" />
       </div>
       OpenCV
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" style="width: 100px; height: 100px;" />
       </div>
       Unity
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" style="width: 100px; height: 100px;" />
       </div>
       VisualStudio
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" style="width: 100px; height: 100px;" />
       </div>
       SQL
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitHub.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitHub.png" style="width: 100px; height: 100px;" />
       </div>
       GitHub
     </td>
     <td align="center">
       <div style="width: 100px; height: 100px; overflow: hidden;">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" style="width: 100px; height: auto;" />
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" style="width: 100px; height: 100px;" />
       </div>
       GitBash
     </td>
