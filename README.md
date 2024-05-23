@@ -115,6 +115,12 @@
       MVC
       </div>
     </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
+      Ruby
+      </div>
+    </td>
   </tr>
 </table>
 
