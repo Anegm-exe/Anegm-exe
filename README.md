@@ -51,30 +51,6 @@
       Java
       </div>
     </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="100" height="100"/>
-      C++
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="100" height="100"/>
-      C#
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="100" height="100"/>
-      MVC
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
-      Ruby
-      </div>
-    </td>
   </tr>
   <tr>
     <td align="center" width="120">
@@ -99,6 +75,30 @@
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" width="100" height="100"/>
       GitBash
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="100" height="100"/>
+      C++
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="100" height="100"/>
+      C#
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="100" height="100"/>
+      MVC
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
+      Ruby
       </div>
     </td>
   </tr>
