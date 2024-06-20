@@ -55,49 +55,49 @@
   <tr>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" width="80" height="80"/>
       SQL
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" width="80" height="80"/>
       OpenCV
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" width="80" height="80"/>
       Unity
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/VisualStudio.png" width="80" height="80"/>
       VisualStudio
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitHub.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitHub.png" width="80" height="80"/>
       GitHub
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/GitBash.png" width="80" height="80"/>
       GitBash
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="80" height="80"/>
       MVC
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="80" height="80"/>
       Ruby
       </div>
     </td>
@@ -105,19 +105,19 @@
   <tr>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Mongo_DB.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Mongo_DB.png" width="80" height="80"/>
       Mongo
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/NPM.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/NPM.png" width="80" height="80"/>
       NPM
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="80" height="80"/>
       Node
       </div>
     </td>
