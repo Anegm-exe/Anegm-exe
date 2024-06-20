@@ -5,49 +5,49 @@
   <tr>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" width="80" height="80"/>
       HTML
       </div>
     </td>
     <td align="center" width="120">
       <div">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" width="80" height="80"/>
       CSS
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" width="80" height="80"/>
       JS
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/React.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/React.png" width="80" height="80"/>
       React
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="80" height="80"/>
       Java
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="80" height="80"/>
       C++
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="80" height="80"/>
       C#
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" width="80" height="80"/>
       Python
       </div>
     </td>
