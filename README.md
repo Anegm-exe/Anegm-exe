@@ -39,8 +39,6 @@
       OpenCV
       </div>
     </td>
-  </tr>
-  <tr>
     <td align="center" width="120">
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" width="100" height="100"/>
@@ -49,7 +47,7 @@
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="40" height="40"/>
       Java
       </div>
     </td>
@@ -65,6 +63,20 @@
       C#
       </div>
     </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="100" height="100"/>
+      MVC
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
+      Ruby
+      </div>
+    </td>
+  </tr>
+  <tr>
     <td align="center" width="120">
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" width="100" height="100"/>
@@ -107,18 +119,6 @@
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="100" height="100"/>
       Node
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="100" height="100"/>
-      MVC
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="100" height="100"/>
-      Ruby
       </div>
     </td>
   </tr>
