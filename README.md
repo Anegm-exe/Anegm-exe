@@ -3,68 +3,68 @@
 ## Skill-Set:
 <table>
   <tr>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/HTML.png" width="40" height="40"/>
       HTML
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div">
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/CSS.png" width="40" height="40"/>
       CSS
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JS.png" width="40" height="40"/>
       JS
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/React.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/React.png" width="40" height="40"/>
       React
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Unity.png" width="40" height="40"/>
       Unity
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" width="40" height="40"/>
       OpenCV
       </div>
     </td>
-    <td align="center" width="120">
+    <td align="center" width="50">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" width="100" height="100"/>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/SQL.png" width="40" height="40"/>
       SQL
+      </div>
+    </td>
+    <td align="center" width="50">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="40" height="40"/>
+      Java
+      </div>
+    </td>
+    <td align="center" width="50">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="40" height="40"/>
+      C++
+      </div>
+    </td>
+    <td align="center" width="50">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="40" height="40"/>
+      C#
       </div>
     </td>
   </tr>
   <tr>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/JAVA.png" width="100" height="100"/>
-      Java
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%2B%2B.png" width="100" height="100"/>
-      C++
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/C%23.png" width="100" height="100"/>
-      C#
-      </div>
-    </td>
     <td align="center" width="120">
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Python.png" width="100" height="100"/>
