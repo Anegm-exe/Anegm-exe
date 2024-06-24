@@ -79,8 +79,8 @@
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="80" height="80"/>
-      MVC
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="80" height="80"/>
+      Ruby
       </div>
     </td>
     <td align="center" width="120">
@@ -91,14 +91,14 @@
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="80" height="80"/>
-      Node
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="80" height="80"/>
+      MVC
       </div>
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Ruby.png" width="80" height="80"/>
-      Ruby
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="80" height="80"/>
+      Node
       </div>
     </td>
   </tr>
