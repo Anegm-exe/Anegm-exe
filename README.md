@@ -85,12 +85,6 @@
     </td>
     <td align="center" width="120">
       <div>
-      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/NPM.png" width="80" height="80"/>
-      NPM
-      </div>
-    </td>
-    <td align="center" width="120">
-      <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/DOTNETMVC.png" width="80" height="80"/>
       MVC
       </div>
@@ -99,6 +93,12 @@
       <div>
       <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Node_JS.png" width="80" height="80"/>
       Node
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/NPM.png" width="80" height="80"/>
+      NPM
       </div>
     </td>
   </tr>
