@@ -121,6 +121,24 @@
       GitBash
       </div>
     </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Next.png" width="80" height="80"/>
+      Next
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Nest.png" width="80" height="80"/>
+      Nest
+      </div>
+    </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Express.png" width="80" height="80"/>
+      Express
+      </div>
+    </td>
   </tr>
 </table>
 
