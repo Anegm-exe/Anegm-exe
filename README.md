@@ -139,6 +139,12 @@
       Ruby
       </div>
     </td>
+    <td align="center" width="120">
+      <div>
+      <img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/Jest.png" width="80" height="80"/>
+      Jest
+      </div>
+    </td>
   </tr>
 </table>
 
