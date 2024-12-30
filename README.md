@@ -1,6 +1,18 @@
-## Hi there 👋
 
-## Skill-Set:
+# Ahmed Negm | Multi-Disciplinary Developer 🧑‍💻
+### About Me ✨
+Full-stack developer specializing in game development, cybersecurity, and data science. Currently building innovative solutions across multiple domains including 3D modeling, graphic design, and software development.
+
+___________________
+
+### Current Projects 🔭
+- TheLastOfUs (Java Edition) - Ongoing updates and enhancements
+- Unity Dine - Major upgrade in development
+- Eyedecay - Converting from HTML to Next.js platform
+
+___________________
+
+### Tech Stack 💻
 <table>
   <tr>
     <td align="center" width="120">
@@ -148,15 +160,40 @@
   </tr>
 </table>
 
+___________________
 
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-<td align="center">OpenCV<br><img src="https://github.com/Anegm-exe/Anegm-exe/blob/main/OpenCV.png" style="height: 100px; width: auto;" /></td>
--->
+### Expertise 🎯
+- Game Development with Unity & Java
+- Software Development (Nest.js specialist)
+- CSS & Frontend Development
+
+___________________
+
+### Experience 🎓
+Previous internships at:
+- ENPPI
+- IDSC
+- Kahromika
+
+___________________
+
+### Looking to Collaborate On 👥
+- Game Development Projects
+- Software Development Initiatives
+- 3D Design & Modeling Work
+
+___________________
+
+### How to Reach Me 📫
+Website: eyedecay.vercel.app
+
+Email: ahmed.essam@student.giu-uni.de
+
+Phone: 01020444348
+
+Instagram: anegm.exe 
+
+___________________
+
+### GitHub Stats 📊
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Anegm-exe&show_icons=true&theme=radical)
